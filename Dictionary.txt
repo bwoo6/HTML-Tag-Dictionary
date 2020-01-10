@@ -1,0 +1,39 @@
+
+h1: Header tag, makes text large and puts in on a separate line.
+    Attributes: None
+	Example: <h1>Byung</h1>
+	
+h6: Header tag, like h1 but the text is smaller. There are header tags from h1 to h6. 
+	h6 is the smallest. Good for subheadings.
+	Example: <h6>Byung</h6>
+
+P: Header tag, separates text and makes a separate paragraph.
+    Attributes: None
+	Example: <p>dunasoidasid</p>
+			 <p>diusanhdoias</p>
+	
+li: To list stuff.
+	Attributes: None
+	Example:<li>cat</li>
+			<li>dog</li>
+	
+ol: An ordered list can be numerical or alphabetical.
+	Attributes: None
+	Example: <ol> 
+			 <li>dog</li>
+			 <li>cat</li>
+			 </ol>
+a: Tag that make clickable links.
+	Attributes: href
+	Example: <a href="website link">
+	
+img: Tag that creates a holding space for the referenced image. Should be jpg.
+	Attributes: src
+	Example:<img src="image name.jpg">
+	
+ul: They are the HTML tags for "bulleted" lists.
+	Attributes: None
+	Example: <ul> 
+			 <li>dog</li>
+			 <li>cat</li>
+			 </ul>
