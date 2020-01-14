@@ -34,6 +34,14 @@ img: Tag that creates a holding space for the referenced image. Should be jpg.
 ul: They are the HTML tags for "bulleted" lists.
 	Attributes: None
 	Example: <ul> 
-			 <li>dog</li>
-			 <li>cat</li>
-			 </ul>
+		 <li>dog</li>
+		 <li>cat</li>
+		 </ul>
+<!-- -->: Contains the content of the webpage. It doesn't show a website, more like a
+	  note to yourself.
+	  Attributes: None
+	  Example: <!--fundasifudso-->
+
+<!DOCTYPE>: Selects the HTML version
+	  Attributes: html (most recent version
+	  Example:  <!DOCTYPE html>
