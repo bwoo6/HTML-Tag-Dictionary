@@ -55,3 +55,4 @@ ul: They are the HTML tags for "bulleted" lists.
 <Html>: tells browsers where your html code starts and ends.
 	Attributes: None
 	Example: <html>www.lordbyng/compsci.net</html>
+<style>: 
